@@ -1,4 +1,6 @@
 # React Native - The Practical Guide
+# Building a Mini-Game App
+# 04 - Diving Deeper into Components
 
 ---
 
@@ -18,5 +20,5 @@ https://github.com/facebook/react-native/tree/main/Libraries
 04 - Diving Deeper into Components, 
 Layouts & Styling - Building a Mini-Game App
 
-### video (13 from 34):
-013 Getting Started with the Game Logic.mp4
+### video (16 from 34):
+016 Starting Work on the Game Screen.mp4
