@@ -20,5 +20,5 @@ https://github.com/facebook/react-native/tree/main/Libraries
 04 - Diving Deeper into Components, 
 Layouts & Styling - Building a Mini-Game App
 
-### video (16 from 34):
-016 Starting Work on the Game Screen.mp4
+### video (17 from 34):
+017 Respecting Device Screen Restrictions with the SafeAreaView.mp4
