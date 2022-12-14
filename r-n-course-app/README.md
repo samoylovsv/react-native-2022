@@ -20,5 +20,5 @@ https://github.com/facebook/react-native/tree/main/Libraries
 04 - Diving Deeper into Components, 
 Layouts & Styling - Building a Mini-Game App
 
-### video (20 from 34):
-020 Creating, Using & Displaying Random Numbers.mp4
+### video (21 from 34):
+021 Adding Game Control Buttons (+ & -) to the App.mp4
