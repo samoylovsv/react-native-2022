@@ -15,7 +15,7 @@ https://github.com/facebook/react-native/tree/main/Libraries
 
 ## Course projects.
 
-### 1.
+### 1. r-n-course-app
 
 ---
 
@@ -25,5 +25,5 @@ https://github.com/facebook/react-native/tree/main/Libraries
 04 - Diving Deeper into Components,
 Layouts & Styling - Building a Mini-Game App
 
-### video (16 from 34):
-016 Starting Work on the Game Screen.mp4
+### video (22 from 34):
+021 Adding Game Control Buttons (+ & -) to the App.mp4
