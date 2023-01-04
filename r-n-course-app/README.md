@@ -20,5 +20,5 @@ https://github.com/facebook/react-native/tree/main/Libraries
 04 - Diving Deeper into Components, 
 Layouts & Styling - Building a Mini-Game App
 
-### video (22 from 34):
-021 Adding Game Control Buttons (+ & -) to the App.mp4
+### video (23 from 34):
+023 Improving the Game Screen Visuals.mp4
