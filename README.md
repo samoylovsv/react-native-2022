@@ -25,5 +25,5 @@ https://github.com/facebook/react-native/tree/main/Libraries
 04 - Diving Deeper into Components,
 Layouts & Styling - Building a Mini-Game App
 
-### video (26 from 34):
-026 Adding & Using Custom Fonts with React Native Apps.mp4
+### video (27 from 34):
+027 Adding a (Foreground) Image.mp4
