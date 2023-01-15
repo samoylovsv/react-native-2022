@@ -25,5 +25,5 @@ https://github.com/facebook/react-native/tree/main/Libraries
 04 - Diving Deeper into Components,
 Layouts & Styling - Building a Mini-Game App
 
-### video (24 from 34):
-024 Using Cascading Styles.mp4
+### video (25 from 34):
+025 Working with Icons (Button Icons).mp4
