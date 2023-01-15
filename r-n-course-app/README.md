@@ -20,5 +20,5 @@ https://github.com/facebook/react-native/tree/main/Libraries
 04 - Diving Deeper into Components, 
 Layouts & Styling - Building a Mini-Game App
 
-### video (25 from 34):
-025 Working with Icons (Button Icons).mp4
+### video (26 from 34):
+026 Adding & Using Custom Fonts with React Native Apps.mp4
