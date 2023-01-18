@@ -20,5 +20,5 @@ https://github.com/facebook/react-native/tree/main/Libraries
 04 - Diving Deeper into Components, 
 Layouts & Styling - Building a Mini-Game App
 
-### video (27 from 34):
-027 Adding a (Foreground) Image.mp4
+### video (28 from 34):
+028 Using & Styling Nested Text.mp4
