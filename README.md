@@ -25,5 +25,5 @@ https://github.com/facebook/react-native/tree/main/Libraries
 04 - Diving Deeper into Components,
 Layouts & Styling - Building a Mini-Game App
 
-### video (28 from 34):
-028 Using & Styling Nested Text.mp4
+### video (29 from 34):
+029 Adding Logic to (Re-)Start Games & Displaying a Summary Screen.mp4
