@@ -20,5 +20,5 @@ https://github.com/facebook/react-native/tree/main/Libraries
 04 - Diving Deeper into Components, 
 Layouts & Styling - Building a Mini-Game App
 
-### video (30 from 34):
-030 Logging Game Rounds.mp4
+### video (31 from 34):
+031 Outputting Log Data with FlatList.mp4
