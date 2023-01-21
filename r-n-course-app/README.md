@@ -20,5 +20,5 @@ https://github.com/facebook/react-native/tree/main/Libraries
 04 - Diving Deeper into Components, 
 Layouts & Styling - Building a Mini-Game App
 
-### video (29 from 34):
-029 Adding Logic to (Re-)Start Games & Displaying a Summary Screen.mp4
+### video (30 from 34):
+030 Logging Game Rounds.mp4
