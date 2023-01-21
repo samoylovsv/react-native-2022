@@ -16,9 +16,8 @@ https://github.com/facebook/react-native/tree/main/Libraries
 
 ## View the next lesson.
 
-### part (04 from 37):
-04 - Diving Deeper into Components, 
-Layouts & Styling - Building a Mini-Game App
+### part (05 from 37):
+05 - Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)
 
-### video (34 from 34):
-034 Module Summary.mp4
+### video (01 from 11):
+001 Module Introduction.mp4
