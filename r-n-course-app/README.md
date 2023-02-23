@@ -17,7 +17,7 @@ https://github.com/facebook/react-native/tree/main/Libraries
 ## View the next lesson.
 
 ### part (05 from 37):
-05 - Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)
+05 - Building Adaaptive User Interfaces (Adapt to Platform & Device Sizes)
 
-### video (01 from 11):
-001 Module Introduction.mp4
+### video (03 from 11):
+003 Introducing the Dimensions API.mp4
