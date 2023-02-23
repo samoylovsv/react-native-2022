@@ -1,6 +1,6 @@
 import {StatusBar} from 'expo-status-bar';
 import {useState} from "react";
-import {StyleSheet, ImageBackground, SafeAreaView} from 'react-native';
+import {StyleSheet, ImageBackground, SafeAreaView, Dimensions} from 'react-native';
 import {LinearGradient} from "expo-linear-gradient";
 import StartGameScreen from "./screens/StartGameScreen";
 import GameScreen from "./screens/GameScreen";
@@ -80,6 +80,9 @@ export default function App() {
         </LinearGradient>
     );
 }
+
+const deviceWidth = Dimensions.get('window').width;
+console.log('# App > deviceWidth:', deviceWidth);
 
 const styles = StyleSheet.create({
     rootScreen: {

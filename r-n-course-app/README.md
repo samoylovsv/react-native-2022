@@ -19,5 +19,5 @@ https://github.com/facebook/react-native/tree/main/Libraries
 ### part (05 from 37):
 05 - Building Adaaptive User Interfaces (Adapt to Platform & Device Sizes)
 
-### video (04 from 11):
-004 Adjusting Image Sizes with the Dimensions API.mp4
+### video (05 from 11):
+005 Understanding Screen Orientation Problems.mp4
