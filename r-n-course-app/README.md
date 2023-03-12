@@ -16,8 +16,8 @@ https://github.com/facebook/react-native/tree/main/Libraries
 
 ## View the next lesson.
 
-### part (08 from 37):
+### part (05 from 37):
 05 - Building Adaaptive User Interfaces (Adapt to Platform & Device Sizes)
 
-### video (08 from 11):
-008 Improving the Landscape Mode UI.mp4
+### video (09 from 11):
+009 Further Improvements with useWindowDimensions.mp4
