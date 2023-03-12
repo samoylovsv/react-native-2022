@@ -25,4 +25,4 @@ https://github.com/facebook/react-native/tree/main/Libraries
 05 - Building Adaptive User Interfaces (Adapt to Platform & Device Sizes)
 
 ### video (05 from 11):
-005 Understanding Screen Orientation Problems.mp4
+006 Setting Sizes Dynamically (for different Orientations).mp4
