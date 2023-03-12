@@ -20,4 +20,4 @@ https://github.com/facebook/react-native/tree/main/Libraries
 05 - Building Adaaptive User Interfaces (Adapt to Platform & Device Sizes)
 
 ### video (05 from 11):
-006 Setting Sizes Dynamically (for different Orientations).mp4
+007 Managing Screen Content with KeyboardAvoidingView.mp4
